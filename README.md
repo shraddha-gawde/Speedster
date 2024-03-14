@@ -134,5 +134,12 @@ To start a typing race:
 ### External CSS library
 
 - Bootstrap
-
-
+# Team Members
+- [Shraddha Gawde](https://github.com/shraddha-gawde)
+- [Aniket Baghel](https://github.com/DEEPAK101020)
+- [Deepak Kumar](https://github.com/DEEPAK101020)
+- [Shivam Oraon](https://github.com/Supriyasingh2)
+- [Vikas Yadav](https://github.com/Vikas3126)
+---
+Please ensure your code adheres to our coding standards and includes tests when applicable.
+Feel free to reach out if you have any questions or need further assistance. Happy coding!
