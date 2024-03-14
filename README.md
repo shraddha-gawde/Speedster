@@ -35,8 +35,8 @@ my-app/
 ```
 
 ## Video Walkthrough of the project
-- [Youtube](https://www.youtube.com/watch?v=V1s_9XjVdTI&feature=youtu.be)
-- 
+- [Youtube](https://www.youtube.com/watch?v=ZAtlADbsRbM)
+
 ## Features
 
 - Typing games for improving typing speed and reading comprehension.
